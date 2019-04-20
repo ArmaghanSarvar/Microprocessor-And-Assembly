@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\Debug/ArmaghanSarvar_HW3_q4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ArmaghanSarvar_HW3_q4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ArmaghanSarvar_HW3_q4.map</FILE>
+  <FILE>ArmaghanSarvar_HW3_q4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</FILE><LINE>22</LINE></start>
+  <subroutine><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</FILE><LINE>34</LINE></subroutine>
+  <is_one><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</FILE><LINE>46</LINE></is_one>
+  <is_zero><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</FILE><LINE>43</LINE></is_zero>
+  <end><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</FILE><LINE>69</LINE></end>
+  <last_part><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4\ArmaghanSarvar_HW3_q4.asm</FILE><LINE>53</LINE></last_part>
+ </LABELS>
+</ASSEMBLER_INFO>

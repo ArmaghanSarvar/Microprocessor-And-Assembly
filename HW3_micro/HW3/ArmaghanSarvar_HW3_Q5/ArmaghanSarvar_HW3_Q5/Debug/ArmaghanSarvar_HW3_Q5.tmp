@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\Debug/ArmaghanSarvar_HW3_Q5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ArmaghanSarvar_HW3_Q5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ArmaghanSarvar_HW3_Q5.map</FILE>
+  <FILE>ArmaghanSarvar_HW3_Q5.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ARRAY><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</FILE><LINE>16</LINE></ARRAY>
+  <algo><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</FILE><LINE>19</LINE></algo>
+  <ascending_or_not_sorted><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</FILE><LINE>29</LINE></ascending_or_not_sorted>
+  <descending_or_not_sorted><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</FILE><LINE>39</LINE></descending_or_not_sorted>
+  <not_sorted><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</FILE><LINE>50</LINE></not_sorted>
+  <end><FILE>C:\Users\Armaghan\Desktop\exercises\HW3_9531807\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5\ArmaghanSarvar_HW3_Q5.asm</FILE><LINE>53</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
