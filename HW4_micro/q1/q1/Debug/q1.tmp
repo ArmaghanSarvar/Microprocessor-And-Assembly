@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\Debug/q1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>q1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>q1.map</FILE>
+  <FILE>q1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BCDTo7_Seg><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>11</LINE></BCDTo7_Seg>
+  <start><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>14</LINE></start>
+  <LOOP><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>26</LINE></LOOP>
+  <BLINK><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>45</LINE></BLINK>
+  <LED_ON><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>35</LINE></LED_ON>
+  <LED_OFF><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>40</LINE></LED_OFF>
+  <BLINK1><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>47</LINE></BLINK1>
+  <delay><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>61</LINE></delay>
+  <delay1><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>63</LINE></delay1>
+  <delay2><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>65</LINE></delay2>
+  <delay3><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>67</LINE></delay3>
+  <part_3><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>79</LINE></part_3>
+  <show_7_segment><FILE>C:\Users\Armaghan\Desktop\exercises\HW4_9531807\q1\q1\q1.asm</FILE><LINE>87</LINE></show_7_segment>
+ </LABELS>
+</ASSEMBLER_INFO>
