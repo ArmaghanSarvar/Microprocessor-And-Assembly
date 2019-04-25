@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Debug/Q2-2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q2-2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q2-2.map</FILE>
+  <FILE>Q2-2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <LCDTABLE><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>31</LINE></LCDTABLE>
+  <reset><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>34</LINE></reset>
+  <LCD_init><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>218</LINE></LCD_init>
+  <LCD_wait><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>201</LINE></LCD_wait>
+  <lcd><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>48</LINE></lcd>
+  <loop><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>46</LINE></loop>
+  <continue><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>54</LINE></continue>
+  <LCD_putchar><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>84</LINE></LCD_putchar>
+  <LCD_delay><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>207</LINE></LCD_delay>
+  <lcd_command8><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>62</LINE></lcd_command8>
+  <lcd_command><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>120</LINE></lcd_command>
+  <LCD_getchar><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>152</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>177</LINE></LCD_getaddr>
+  <LCD_delay_outer><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>209</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q2_9531807\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>211</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>

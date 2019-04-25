@@ -1,0 +1,53 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Debug/Q1_9531807.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q1_9531807.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q1_9531807.map</FILE>
+  <FILE>Q1_9531807.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>17</LINE></start>
+  <keyFind><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>74</LINE></keyFind>
+  <ext_int1><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>53</LINE></ext_int1>
+  <loop><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>51</LINE></loop>
+  <LED_ON><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>61</LINE></LED_ON>
+  <LED_OFF><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>67</LINE></LED_OFF>
+  <ret_label1><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>58</LINE></ret_label1>
+  <first_col><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>90</LINE></first_col>
+  <second_col><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>113</LINE></second_col>
+  <third_col><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>136</LINE></third_col>
+  <fourth_col><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>159</LINE></fourth_col>
+  <ret_label2><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>88</LINE></ret_label2>
+  <SET_7segment_0><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>182</LINE></SET_7segment_0>
+  <SET_7segment_4><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>202</LINE></SET_7segment_4>
+  <SET_7segment_8><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>222</LINE></SET_7segment_8>
+  <SET_7segment_C><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>242</LINE></SET_7segment_C>
+  <SET_7segment_1><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>187</LINE></SET_7segment_1>
+  <SET_7segment_5><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>207</LINE></SET_7segment_5>
+  <SET_7segment_9><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>227</LINE></SET_7segment_9>
+  <SET_7segment_D><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>247</LINE></SET_7segment_D>
+  <SET_7segment_2><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>192</LINE></SET_7segment_2>
+  <SET_7segment_6><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>212</LINE></SET_7segment_6>
+  <SET_7segment_A><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>232</LINE></SET_7segment_A>
+  <SET_7segment_E><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>252</LINE></SET_7segment_E>
+  <SET_7segment_3><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>197</LINE></SET_7segment_3>
+  <SET_7segment_7><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>217</LINE></SET_7segment_7>
+  <SET_7segment_B><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>237</LINE></SET_7segment_B>
+  <SET_7segment_F><FILE>C:\Users\Armaghan\Desktop\exercises\HW5_micro\Q1_9531807\Q1_9531807\Q1_9531807.asm</FILE><LINE>257</LINE></SET_7segment_F>
+ </LABELS>
+</ASSEMBLER_INFO>
