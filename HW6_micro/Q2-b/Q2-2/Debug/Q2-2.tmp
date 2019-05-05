@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Q2-2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Debug/Q2-2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q2-2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q2-2.map</FILE>
+  <FILE>Q2-2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>10</LINE></start>
+  <check><FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>30</LINE></check>
+  <slow><FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>39</LINE></slow>
+  <fast><FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>44</LINE></fast>
+  <off><FILE>C:\Users\Armaghan\Desktop\exercises\HW6_micro\Q2-2\Q2-2\Q2-2.asm</FILE><LINE>49</LINE></off>
+ </LABELS>
+</ASSEMBLER_INFO>
