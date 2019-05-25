@@ -1,0 +1,70 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Debug/Q2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q2.map</FILE>
+  <FILE>Q2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>44</LINE></reset>
+  <ADC_routine><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>88</LINE></ADC_routine>
+  <LCD_init><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>430</LINE></LCD_init>
+  <start><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>54</LINE></start>
+  <LOOP1><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>64</LINE></LOOP1>
+  <select_adc2><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>76</LINE></select_adc2>
+  <select_adc1><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>81</LINE></select_adc1>
+  <read_lower_bound_voltage><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>145</LINE></read_lower_bound_voltage>
+  <read1><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>95</LINE></read1>
+  <read_upper_bound_voltage><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>154</LINE></read_upper_bound_voltage>
+  <read2><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>99</LINE></read2>
+  <humidity_measure><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>125</LINE></humidity_measure>
+  <done_measuring><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>108</LINE></done_measuring>
+  <DELAY><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>111</LINE></DELAY>
+  <DELAY2><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>113</LINE></DELAY2>
+  <DELAY3><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>115</LINE></DELAY3>
+  <LOOP><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>117</LINE></LOOP>
+  <is_valid_humidity><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>177</LINE></is_valid_humidity>
+  <division><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>199</LINE></division>
+  <LCD_command><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>331</LINE></LCD_command>
+  <binTobcd><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>233</LINE></binTobcd>
+  <comp_upperBound_voltageL><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>164</LINE></comp_upperBound_voltageL>
+  <next><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>182</LINE></next>
+  <make_on><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>195</LINE></make_on>
+  <make_off><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>191</LINE></make_off>
+  <comp_lowerBound_voltageL><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>171</LINE></comp_lowerBound_voltageL>
+  <final><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>188</LINE></final>
+  <divide_low><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>203</LINE></divide_low>
+  <divide2><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>210</LINE></divide2>
+  <divide_high><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>212</LINE></divide_high>
+  <divide_low2><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>221</LINE></divide_low2>
+  <divide3><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>219</LINE></divide3>
+  <exit_divide><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>228</LINE></exit_divide>
+  <_bi1><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>235</LINE></_bi1>
+  <_bi2><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>241</LINE></_bi2>
+  <LCD_putchar><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>295</LINE></LCD_putchar>
+  <_bi3><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>250</LINE></_bi3>
+  <_bi4><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>259</LINE></_bi4>
+  <lcd_command8><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>273</LINE></lcd_command8>
+  <LCD_getchar><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>363</LINE></LCD_getchar>
+  <LCD_getaddr><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>388</LINE></LCD_getaddr>
+  <LCD_wait><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>412</LINE></LCD_wait>
+  <LCD_delay><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>419</LINE></LCD_delay>
+  <LCD_delay_outer><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>421</LINE></LCD_delay_outer>
+  <LCD_delay_inner><FILE>D:\MyDocuments\Sixth Semester\Microprocessor and Assembly\my_HWs\HW7_micro\Q2_9531807\Q2\Q2.asm</FILE><LINE>423</LINE></LCD_delay_inner>
+ </LABELS>
+</ASSEMBLER_INFO>
