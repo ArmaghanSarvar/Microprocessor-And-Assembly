@@ -1,0 +1,28 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW9_micro\HW9_one\HW9_one\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW9_micro\HW9_one\HW9_one\HW9_one.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW9_micro\HW9_one\HW9_one\Debug/HW9_one.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>HW9_one.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>HW9_one.map</FILE>
+  <FILE>HW9_one.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\Armaghan\Desktop\exercises\HW9_micro\HW9_one\HW9_one\HW9_one.asm</FILE><LINE>8</LINE></start>
+  <read_1500><FILE>C:\Users\Armaghan\Desktop\exercises\HW9_micro\HW9_one\HW9_one\HW9_one.asm</FILE><LINE>15</LINE></read_1500>
+  <write_2500><FILE>C:\Users\Armaghan\Desktop\exercises\HW9_micro\HW9_one\HW9_one\HW9_one.asm</FILE><LINE>37</LINE></write_2500>
+ </LABELS>
+</ASSEMBLER_INFO>
