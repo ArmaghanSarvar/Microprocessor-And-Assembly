@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.232\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Debug/Q1-a.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Q1-a.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Q1-a.map</FILE>
+  <FILE>Q1-a.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>11</LINE></reset>
+  <int0_routine><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>50</LINE></int0_routine>
+  <loop><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>47</LINE></loop>
+  <c4><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>161</LINE></c4>
+  <notc4><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>54</LINE></notc4>
+  <notc3><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>58</LINE></notc3>
+  <c3><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>137</LINE></c3>
+  <notc2><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>62</LINE></notc2>
+  <c2><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>97</LINE></c2>
+  <c1><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>65</LINE></c1>
+  <c1notr1><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>73</LINE></c1notr1>
+  <data_transmit><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>193</LINE></data_transmit>
+  <c1notr2><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>81</LINE></c1notr2>
+  <c1notr3><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>89</LINE></c1notr3>
+  <c2notr1><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>105</LINE></c2notr1>
+  <c2notr2><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>113</LINE></c2notr2>
+  <c2notr3><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>121</LINE></c2notr3>
+  <c3notr1><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>129</LINE></c3notr1>
+  <c3notr2><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>145</LINE></c3notr2>
+  <c3notr3><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>153</LINE></c3notr3>
+  <c4notr1><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>169</LINE></c4notr1>
+  <c4notr2><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>177</LINE></c4notr2>
+  <c4notr3><FILE>C:\Users\Armaghan\Desktop\exercises\HW8_micro\Q1-a\Q1-a\Q1-a.asm</FILE><LINE>185</LINE></c4notr3>
+ </LABELS>
+</ASSEMBLER_INFO>
